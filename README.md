@@ -4,7 +4,7 @@
 · 喜欢折腾Project Treble移植
 
 **我的酷安**：
-[![Coolapk](https://img.shields.io/badge/点击查看-酷安-orange?style=flat-square&logo=android&logoColor=white)]([http://www.coolapk.com/u/4430874](http://www.coolapk.com/u/4430874)
+[![Coolapk](https://img.shields.io/badge/点击查看-酷安-orange?style=flat-square&logo=android&logoColor=white)]([http://www.coolapk.com/u/4430874])
 
 ## 📱 在役设备
 [![Redmi Note 12T Pro](https://img.shields.io/badge/Redmi%20Note%2012T%20Pro-小米-orange?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
