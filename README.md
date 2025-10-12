@@ -11,11 +11,10 @@
 [![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi%20Pad%205-小米-blue?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
 [![OnePlus Ace 5](https://img.shields.io/badge/OnePlus%20Ace%205-一加-red?style=flat-square&logo=oneplus&logoColor=white)](https://www.oneplus.com/)
 
-## 🧰 语言 & 工具
+## 语言 & 工具
 <!-- 主力 -->
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=java&logoColor=white)
 
 ## 📊 GitHub 统计
 ![GitHub Stats](https://miyuki-github.vercel.app/api/?username=mytiantian001&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=6)
