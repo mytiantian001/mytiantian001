@@ -9,6 +9,7 @@
 ## 📱 在役设备
 [![Redmi Note 12T Pro](https://img.shields.io/badge/Redmi%20Note%2012T%20Pro-小米-orange?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
 [![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi%20Pad%205-小米-blue?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
+[![Xiaomi Civi 3](https://img.shields.io/badge/Xiaomi%20Pad%205-小米-blue?style=flat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/)
 [![OnePlus Ace 5](https://img.shields.io/badge/OnePlus%20Ace%205-一加-red?style=flat-square&logo=oneplus&logoColor=white)](https://www.oneplus.com/)
 
 ## 语言 & 工具
